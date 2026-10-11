@@ -3,11 +3,9 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-0076A8?logo=mathworks&logoColor=white)
-![Vuforia](https://img.shields.io/badge/Vuforia-AR-6DB33F)
 
 An air hockey game where you play with a real haptic robot: you move the robot arm to control your mallet in a Unity game, and the robot pushes back so you feel every hit of the puck and every collision with the wall. A second player can join through augmented reality by moving a 3D-printed marker in front of a camera.
 
-https://github.com/user-attachments/assets/VIDEO-ID
 
 <p align="center">
   <img src="docs/img/gameplay.jpg" alt="Gameplay" width="49%">
